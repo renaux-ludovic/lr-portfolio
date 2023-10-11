@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/lr-portfolio/static/css/main.d1bdc922.css",
-    "main.js": "/lr-portfolio/static/js/main.0b6286a8.js",
+    "main.css": "/lr-portfolio/static/css/main.8393295a.css",
+    "main.js": "/lr-portfolio/static/js/main.92480ee5.js",
     "static/js/787.595b4aa7.chunk.js": "/lr-portfolio/static/js/787.595b4aa7.chunk.js",
-    "static/media/vignette-3.webp": "/lr-portfolio/static/media/vignette-3.18786276f64f0422b3be.webp",
-    "static/media/vignette-2.webp": "/lr-portfolio/static/media/vignette-2.87a3a528689d33c3d7ff.webp",
-    "static/media/vignette-4.webp": "/lr-portfolio/static/media/vignette-4.e94a20a5b4aa66f1c6b4.webp",
-    "static/media/vignette-1.webp": "/lr-portfolio/static/media/vignette-1.20cd6e05270427c2f22f.webp",
+    "static/media/vignette-3.webp": "/lr-portfolio/static/media/vignette-3.eaee6f8dd50b083e82da.webp",
+    "static/media/vignette-2.webp": "/lr-portfolio/static/media/vignette-2.1aaf3a98a8425c259dfb.webp",
+    "static/media/vignette-4.webp": "/lr-portfolio/static/media/vignette-4.216442a810ed7acf494f.webp",
+    "static/media/vignette-1.webp": "/lr-portfolio/static/media/vignette-1.8a7fec8d2c106688ef0d.webp",
     "static/media/logo-react.svg": "/lr-portfolio/static/media/logo-react.b59c368413552da2a16de7b1cb972788.svg",
-    "static/media/photo-profil.jpg": "/lr-portfolio/static/media/photo-profil.eb97da3796fb1485b5e9.jpg",
+    "static/media/photo-profil.webp": "/lr-portfolio/static/media/photo-profil.447fe1be648f0e66dfa7.webp",
     "static/media/logo-js.svg": "/lr-portfolio/static/media/logo-js.320d800a40a20dfe534618549cb0f572.svg",
     "static/media/glacier-vanoise.webp": "/lr-portfolio/static/media/glacier-vanoise.ce153cc6750d43ae0a56.webp",
     "static/media/logo-git.svg": "/lr-portfolio/static/media/logo-git.b5fcc4339278b569c99838755503e75f.svg",
@@ -17,12 +17,12 @@
     "static/media/logo-git.webp": "/lr-portfolio/static/media/logo-git.2877a867a07f9e13d6c8.webp",
     "static/media/logo-mongo-db.webp": "/lr-portfolio/static/media/logo-mongo-db.892b7b68f613718898cd.webp",
     "index.html": "/lr-portfolio/index.html",
-    "main.d1bdc922.css.map": "/lr-portfolio/static/css/main.d1bdc922.css.map",
-    "main.0b6286a8.js.map": "/lr-portfolio/static/js/main.0b6286a8.js.map",
+    "main.8393295a.css.map": "/lr-portfolio/static/css/main.8393295a.css.map",
+    "main.92480ee5.js.map": "/lr-portfolio/static/js/main.92480ee5.js.map",
     "787.595b4aa7.chunk.js.map": "/lr-portfolio/static/js/787.595b4aa7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1bdc922.css",
-    "static/js/main.0b6286a8.js"
+    "static/css/main.8393295a.css",
+    "static/js/main.92480ee5.js"
   ]
 }
