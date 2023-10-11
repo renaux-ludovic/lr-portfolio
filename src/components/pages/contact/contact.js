@@ -24,13 +24,13 @@ function Contact() {
         </a>
         <div className="networks">
           <a href="https://github.com/renaux-ludovic " target="blank">
-            <img src={LogoGIt} />
+            <img src={LogoGIt} alt="logo git" />
           </a>
           <a
             href="https://www.linkedin.com/in/ludovic-renaux-978b7a243/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BZ8pHXbJ%2BQRiSXhDybRQdmw%3D%3D"
             target="blank"
           >
-            <img src={LogoLinkedin} />
+            <img src={LogoLinkedin} alt="logo linkedin" />
           </a>
         </div>
       </div>
