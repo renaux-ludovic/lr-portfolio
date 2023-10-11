@@ -29,8 +29,8 @@ export default function Home() {
 
           <p>
             Si vous êtes à la recherche d'un{" "}
-            <span className="important-word">développeur web en Freelance</span>{" "}
-            compétent et passionné, n'hésitez pas à me contacter. Je suis
+            <span className="important-word">développeur web  compétent et passionné en Freelance ou en remote à temps plein</span>{" "}
+           , n'hésitez pas à me contacter. Je suis
             impatient de discuter de vos projets et de contribuer à leur succès.
           </p>
           <div className="home-cta-container">
