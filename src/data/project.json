@@ -1,0 +1,86 @@
+{
+    "projects": [
+      {
+        "id": "01-PROJET BACKEND NODE.JS",
+        "title": "MON VIEUX GRIMOIRE",
+        "description": "L’objectif du site “Mon Vieux Grimoire” est de donner la possibilité aux lecteurs de créer des livres, de les noter et de consulter ceux déjà existants ainsi que leurs notes. Sur ce projet, je suis en charge de la partie backend pour développer une API Rest permettant d'effectuer les requêtes vers une base de données NoSQL.",
+        "pb": "Gestion de certaines requêtes nécessitant une authentification. J'ai solutionné le problème en annalysant les requêtes envoyées par le frontend et en utilisant la console pour tracer les données transmises",
+        "competences": [
+          "Implémenter un modèle logique de données correspondant aux standards de MongoDB.",
+          "Mettre en œuvre des opérations CRUD sécurisées pour permettre aux utilisateurs d'interagir avec la base de données.",
+          "Garantir la sécurité de l'application et la protection des données en mettant en place des remparts contre les injections SQL et les failles XSS."
+        ],
+        "techno": [
+          "Express",
+          "Node JS",
+          "Mongo DB",
+          "Multer",
+          "Sharp"
+        ],
+        "githubLink": "https://github.com/renaux-ludovic/mon-vieux-grimoire.git",
+        "imageURL": "../../../assets/images/projects/vignette-1.webp"
+      },
+      {
+        "id": "02-PROJET FRONTEND REACT JS",
+        "title": "KASA",
+        "pb": "Renvoie des images correspondantes à l'ID du logement selectionnées dans le carousel de la page logement. Le problème a été resolu grâce à l'utilisation de la fonction map()." ,
+        "description": "Le site “Kasa” propose un service de location d’appartements entre particuliers en France. Le projet est une refonte totale du site existant pour passer à une stack complète en JavaScript avec NodeJS côté backend et React côté frontend. Sur ce projet, je suis chargé de développer la partie frontend complète en respectant les maquettes fournies par le designer du client et la logique de composants.",
+        "competences": [
+          "Mettre en œuvre des animations CSS.",
+          "Développer une interface web avec Sass.",
+          "Configurer la navigation entre les pages de l'application avec React Router.",
+          "Développer des éléments de l'interface d'un site web grâce à des composants React.",
+          "Initialiser une application avec Create React App."
+        ],
+        "techno": [
+          "React",
+          "Sass",
+          "React App",
+          "React Router"
+        ],
+        "githubLink": "https://github.com/renaux-ludovic/kasa.git",
+        "imageURL":"../../../assets/images/projects/vignette-2.webp"
+      },
+      {
+        "id": "03-OPTIMISATION & DEBUG JQUERY",
+        "title": "NINA CARDUCCI",
+        "pb": "Difficultées à renvoyer une résoltution d'image adaptée à la taille de l'écran sans perdre en qualité. Le problème a été resolu grâce à l'utilistion de l'attribut html 'srcset' qui permet au navigateur de selectionner l'image  adaptée à la taille de l'écran.",
+        "description": "Le site “Nina Carducci” est le portfolio d'une photographe. Sur ce projet, je suis chargé de faire une optimisation globale du site, tant sur les performances que sur le référencement SEO.",
+        "competences": [
+          "Optimiser les performances d’un site web.",
+          "Débugger un site web grâce aux Chrome DevTools.",
+          "Rédiger un cahier de recette pour tester un site."
+        ],
+        "techno": [
+          "Lighthouse",
+          "Schema.org",
+          "Google Rich Snippet",
+          "Wave"
+        ],
+        "githubLink": "https://github.com/renaux-ludovic/portfolio-nina-carducci.git",
+        "imageURL":"../../../assets/images/projects/vignette-3.webp"
+      },
+      {
+        "id": "04-FRONTEND VANILLA JS",
+        "title": "SOPHIE BLUEL",
+        "pb":"Difficultés à gérer l'authentification à cause d'un mauvais stockage du token  une fois renvoyé par le server. Le problème a été résolu  grâce à l'utilisation du sessionStorage me permettant de stocker efficacement la paire 'ID,TOKEN'.",
+        "description": "Le site “Sophie Buel” est le portfolio d'une architecte d'interieur. Sur ce projet, je suis chargé de développer le frontend du site en Vanilla JS. Les données du site sont retournées dynamiquement des requêtes API Rest.",
+        "competences": [
+          "Gérer les événements utilisateurs avec JavaScript.",
+          "Manipuler les éléments du DOM avec JavaScript.",
+          "Récupérer les données utilisateurs dans le JavaScript via des formulaires."
+        ],
+
+        "techno": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Fetch",
+          "API Rest"
+        ],
+        "githubLink": "https://github.com/renaux-ludovic/portfolio-sophie-bluel-P3.git",
+        "imageURL":"../../../assets/images/projects/vignette-4.webp"
+      }
+    ]
+  }
+  

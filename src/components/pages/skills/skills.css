@@ -1,0 +1,19 @@
+.skills-container {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  padding-top: 10vh;
+}
+.skill-title-container h2 {
+  color: black;
+  font-size: 6vh;
+  margin: 2vh;
+}
+
+.carousel-and-description-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 150px;
+}

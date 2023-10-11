@@ -1,0 +1,17 @@
+.title-container h2 {
+  font-size: 6vh;
+  color: white;
+  text-transform: uppercase;
+}
+
+@media screen and (max-width: 992px) {
+  .title-container h2 {
+    font-size: 3vh;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .title-container h2 {
+    font-size: 2vh;
+  }
+}

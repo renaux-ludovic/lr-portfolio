@@ -1,0 +1,14 @@
+.name-container {
+  display: inline-block;
+  background-color: white;
+  color: black;
+  margin-top: 4vh;
+}
+
+.name-container h1 {
+  color: black;
+  font-size: 5vw;
+  text-align: center;
+  line-height: 1em;
+  padding-right: 5px;
+}

@@ -1,0 +1,168 @@
+/* Desktop Poperties */
+.nav-bar {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  position: fixed;
+  padding-left: 5%;
+  padding-right: 5%;
+  background-color: black;
+  z-index: 98;
+}
+
+.desktop-menu {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 3vh;
+  margin-bottom: 3vh;
+  gap: 50px;
+}
+
+.desktop-menu a {
+  color: white;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 1vw;
+}
+
+nav.desktop-menu a.active-link {
+  color: #0077b6;
+}
+
+.section-nav-title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.section-nav-title h3 {
+  color: #0077b6;
+  font-weight: 700;
+  font-size: 2vw;
+}
+
+/* Burger button Porperties */
+.burger-button {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+  gap: 50px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  display: none;
+}
+
+.bar {
+  width: 20px;
+  height: 2px;
+  background-color: white;
+  margin: 5px 0;
+  transition: 0.4s;
+  border-radius: 25px;
+}
+
+/* Responsive Menu Properties */
+.burger-menu {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 6vh;
+  margin-bottom: 6vh;
+  gap: 50px;
+  display: none;
+  position: absolute;
+}
+
+.burger-menu a {
+  color: white;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 1vw;
+}
+
+.burger-menu.open {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 50px;
+  right: 0;
+  background-color: black;
+  width: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+  z-index: 100;
+}
+
+/* Styles pour la modale */
+.burger-modal {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  z-index: 100;
+}
+
+.burger-modal a {
+  color: white;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 24px;
+  margin: 10px;
+}
+
+/* Modale poperties */
+.burger-modal-content {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding-left: 5%;
+  padding-right: 5%;
+  gap: 30vh;
+}
+
+.burger-nav-content {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.close-button-container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.close-button {
+  font-size: 4vh;
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+}
+
+/* Media Queries */
+@media screen and (max-width: 992px) {
+  .nav-bar {
+    height: 8vh;
+    align-items: center;
+  }
+
+  .burger-button {
+    display: block;
+  }
+
+  .desktop-menu {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 425px) {
+.section-nav-title h3 {
+  font-size: 5vw;
+}}
+

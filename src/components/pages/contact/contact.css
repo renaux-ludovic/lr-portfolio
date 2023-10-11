@@ -1,0 +1,79 @@
+.contact-main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  width: 40%;
+  height: 80vh;
+  margin: 0 auto;
+
+  background-color: white;
+  padding: 5vh;
+  gap: 3vh;
+}
+
+.contact-name-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1vh;
+}
+.contact-main-container h3 {
+  color: black;
+  text-align: center;
+}
+
+.contact-main-container p,
+.contact-main-container a {
+  color: black;
+}
+.contact-main-container a {
+  color: black;
+  text-decoration: none;
+}
+
+.contact-rdv-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10vh;
+}
+.contact-rdv-container a {
+  text-align: center;
+}
+.contact-rdv-container a img {
+  height: 4vh;
+}
+
+.contact-main-container .cta-contact {
+  background-color: black;
+  color: white;
+  padding: 2vh;
+  cursor: pointer;
+}
+.contact-main-container .cta-contact:hover {
+  background-color: #0077b6;
+  color: white;
+}
+.profil-img-container {
+  height: 150px;
+  width: 100px;
+  background-color: black;
+  border-radius: 50px;
+  background-image: url("../../../assets/images/profil/photo-profil.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.networks {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 2vw;
+}
+@media screen and (max-width: 768px) {
+  .contact-main-container {
+    width: 100%;
+  }
+}
