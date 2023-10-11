@@ -4,7 +4,7 @@
         "id": "01-PROJET BACKEND NODE.JS",
         "title": "MON VIEUX GRIMOIRE",
         "description": "L’objectif du site “Mon Vieux Grimoire” est de donner la possibilité aux lecteurs de créer des livres, de les noter et de consulter ceux déjà existants ainsi que leurs notes. Sur ce projet, je suis en charge de la partie backend pour développer une API Rest permettant d'effectuer les requêtes vers une base de données NoSQL.",
-        "pb": "Gestion de certaines requêtes nécessitant une authentification. J'ai solutionné le problème en annalysant les requêtes envoyées par le frontend et en utilisant la console pour tracer les données transmises",
+        "pb": "Gestion de certaines requêtes nécessitant une authentification. J'ai solutionné le problème en annalysant les requêtes envoyées par le frontend et en utilisant la console pour tracer les données transmises.",
         "competences": [
           "Implémenter un modèle logique de données correspondant aux standards de MongoDB.",
           "Mettre en œuvre des opérations CRUD sécurisées pour permettre aux utilisateurs d'interagir avec la base de données.",
