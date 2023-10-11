@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lr-portfolio/static/css/main.8393295a.css",
-    "main.js": "/lr-portfolio/static/js/main.c4a612d8.js",
+    "main.js": "/lr-portfolio/static/js/main.cb3b4732.js",
     "static/js/787.595b4aa7.chunk.js": "/lr-portfolio/static/js/787.595b4aa7.chunk.js",
     "static/media/vignette-3.webp": "/lr-portfolio/static/media/vignette-3.eaee6f8dd50b083e82da.webp",
     "static/media/vignette-2.webp": "/lr-portfolio/static/media/vignette-2.1aaf3a98a8425c259dfb.webp",
@@ -18,11 +18,11 @@
     "static/media/logo-mongo-db.webp": "/lr-portfolio/static/media/logo-mongo-db.892b7b68f613718898cd.webp",
     "index.html": "/lr-portfolio/index.html",
     "main.8393295a.css.map": "/lr-portfolio/static/css/main.8393295a.css.map",
-    "main.c4a612d8.js.map": "/lr-portfolio/static/js/main.c4a612d8.js.map",
+    "main.cb3b4732.js.map": "/lr-portfolio/static/js/main.cb3b4732.js.map",
     "787.595b4aa7.chunk.js.map": "/lr-portfolio/static/js/787.595b4aa7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8393295a.css",
-    "static/js/main.c4a612d8.js"
+    "static/js/main.cb3b4732.js"
   ]
 }
