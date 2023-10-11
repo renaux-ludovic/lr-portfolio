@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.0bfc4740.css",
-    "main.js": "/portfolio/static/js/main.8d2f4f1b.js",
-    "static/js/787.595b4aa7.chunk.js": "/portfolio/static/js/787.595b4aa7.chunk.js",
-    "static/media/vignette-3.webp": "/portfolio/static/media/vignette-3.18786276f64f0422b3be.webp",
-    "static/media/vignette-2.webp": "/portfolio/static/media/vignette-2.87a3a528689d33c3d7ff.webp",
-    "static/media/vignette-4.webp": "/portfolio/static/media/vignette-4.e94a20a5b4aa66f1c6b4.webp",
-    "static/media/vignette-1.webp": "/portfolio/static/media/vignette-1.20cd6e05270427c2f22f.webp",
-    "static/media/logo-react.svg": "/portfolio/static/media/logo-react.b59c368413552da2a16de7b1cb972788.svg",
-    "static/media/photo-profil.jpg": "/portfolio/static/media/photo-profil.eb97da3796fb1485b5e9.jpg",
-    "static/media/logo-js.svg": "/portfolio/static/media/logo-js.320d800a40a20dfe534618549cb0f572.svg",
-    "static/media/glacier-vanoise.webp": "/portfolio/static/media/glacier-vanoise.ce153cc6750d43ae0a56.webp",
-    "static/media/logo-git.svg": "/portfolio/static/media/logo-git.b5fcc4339278b569c99838755503e75f.svg",
-    "static/media/logo-node.webp": "/portfolio/static/media/logo-node.00f276d3b5581f88850b.webp",
-    "static/media/logo-css.webp": "/portfolio/static/media/logo-css.60f2a36199859bdb80b8.webp",
-    "static/media/logo-git.webp": "/portfolio/static/media/logo-git.2877a867a07f9e13d6c8.webp",
-    "static/media/logo-mongo-db.webp": "/portfolio/static/media/logo-mongo-db.892b7b68f613718898cd.webp",
-    "index.html": "/portfolio/index.html",
-    "main.0bfc4740.css.map": "/portfolio/static/css/main.0bfc4740.css.map",
-    "main.8d2f4f1b.js.map": "/portfolio/static/js/main.8d2f4f1b.js.map",
-    "787.595b4aa7.chunk.js.map": "/portfolio/static/js/787.595b4aa7.chunk.js.map"
+    "main.css": "/lr-portfolio/static/css/main.d1bdc922.css",
+    "main.js": "/lr-portfolio/static/js/main.9e12a199.js",
+    "static/js/787.595b4aa7.chunk.js": "/lr-portfolio/static/js/787.595b4aa7.chunk.js",
+    "static/media/vignette-3.webp": "/lr-portfolio/static/media/vignette-3.18786276f64f0422b3be.webp",
+    "static/media/vignette-2.webp": "/lr-portfolio/static/media/vignette-2.87a3a528689d33c3d7ff.webp",
+    "static/media/vignette-4.webp": "/lr-portfolio/static/media/vignette-4.e94a20a5b4aa66f1c6b4.webp",
+    "static/media/vignette-1.webp": "/lr-portfolio/static/media/vignette-1.20cd6e05270427c2f22f.webp",
+    "static/media/logo-react.svg": "/lr-portfolio/static/media/logo-react.b59c368413552da2a16de7b1cb972788.svg",
+    "static/media/photo-profil.jpg": "/lr-portfolio/static/media/photo-profil.eb97da3796fb1485b5e9.jpg",
+    "static/media/logo-js.svg": "/lr-portfolio/static/media/logo-js.320d800a40a20dfe534618549cb0f572.svg",
+    "static/media/glacier-vanoise.webp": "/lr-portfolio/static/media/glacier-vanoise.ce153cc6750d43ae0a56.webp",
+    "static/media/logo-git.svg": "/lr-portfolio/static/media/logo-git.b5fcc4339278b569c99838755503e75f.svg",
+    "static/media/logo-node.webp": "/lr-portfolio/static/media/logo-node.00f276d3b5581f88850b.webp",
+    "static/media/logo-css.webp": "/lr-portfolio/static/media/logo-css.60f2a36199859bdb80b8.webp",
+    "static/media/logo-git.webp": "/lr-portfolio/static/media/logo-git.2877a867a07f9e13d6c8.webp",
+    "static/media/logo-mongo-db.webp": "/lr-portfolio/static/media/logo-mongo-db.892b7b68f613718898cd.webp",
+    "index.html": "/lr-portfolio/index.html",
+    "main.d1bdc922.css.map": "/lr-portfolio/static/css/main.d1bdc922.css.map",
+    "main.9e12a199.js.map": "/lr-portfolio/static/js/main.9e12a199.js.map",
+    "787.595b4aa7.chunk.js.map": "/lr-portfolio/static/js/787.595b4aa7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0bfc4740.css",
-    "static/js/main.8d2f4f1b.js"
+    "static/css/main.d1bdc922.css",
+    "static/js/main.9e12a199.js"
   ]
 }
