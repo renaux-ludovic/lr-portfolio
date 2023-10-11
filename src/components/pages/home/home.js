@@ -29,7 +29,7 @@ export default function Home() {
 
           <p>
             Si vous êtes à la recherche d'un{" "}
-            <span className="important-word">développeur web  compétent et passionné en Freelance ou en remote à temps plein</span>{" "}
+            <span className="important-word">développeur web  compétent et passionné en Freelance ou en CDI remote partiel ou total</span>{" "}
            , n'hésitez pas à me contacter. Je suis
             impatient de discuter de vos projets et de contribuer à leur succès.
           </p>
